@@ -1,0 +1,126 @@
+{
+  "nearstar": [
+    {
+      "name": "lava_lamp",
+      "x": 3690704,
+      "y": -4370114,
+      "z": -1304184,
+      "file": "nearstar_lava_lamp.txt"
+    },
+    {
+      "name": "alexandros",
+      "x": 3352848,
+      "y": -4694601,
+      "z": -1274885,
+      "file": "nearstar_alexandros.txt"
+    },
+    {
+      "name": "ferrium_n002",
+      "x": 3428560,
+      "y": -4060293,
+      "z": -686548,
+      "file": "nearstar_ferrium_n002.txt"
+    },
+    {
+      "name": "syamasundar",
+      "x": 3928560,
+      "y": -4310155,
+      "z": -1229625,
+      "file": "nearstar_syamasundar.txt"
+    },
+    {
+      "name": "blue_shadow",
+      "x": 4166416,
+      "y": -4003058,
+      "z": -1039179,
+      "file": "nearstar_blue_shadow.txt"
+    },
+    {
+      "name": "alan_young",
+      "x": 3828560,
+      "y": -4547754,
+      "z": -1036719,
+      "file": "nearstar_alan_young.txt"
+    },
+    {
+      "name": "lista_24",
+      "x": 3966416,
+      "y": -4766334,
+      "z": -893636,
+      "file": "nearstar_lista_24.txt"
+    },
+    {
+      "name": "anthem",
+      "x": 4166416,
+      "y": -4803058,
+      "z": -1088856,
+      "file": "nearstar_anthem.txt"
+    },
+    {
+      "name": "xno4",
+      "x": 4166416,
+      "y": -4303058,
+      "z": -1074192,
+      "file": "nearstar_xno4.txt"
+    },
+    {
+      "name": "originish",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "file": "nearstar_originish.txt"
+    },
+    {
+      "name": "misc_a",
+      "x": 100000,
+      "y": 200000,
+      "z": 300000,
+      "file": "nearstar_misc_a.txt"
+    },
+    {
+      "name": "misc_b",
+      "x": -500000,
+      "y": 250000,
+      "z": -750000,
+      "file": "nearstar_misc_b.txt"
+    }
+  ],
+  "isthere": [
+    {
+      "name": "lava_default",
+      "field_amplificator": 0,
+      "id": 21034.919273902353,
+      "file": "isthere_lava_default.txt"
+    },
+    {
+      "name": "sc63_fieldamp",
+      "field_amplificator": 1,
+      "id": 213.5312257256292,
+      "file": "isthere_sc63_fieldamp.txt"
+    },
+    {
+      "name": "deus_ex_fieldamp",
+      "field_amplificator": 1,
+      "id": 6476.846877693647,
+      "file": "isthere_deus_ex_fieldamp.txt"
+    },
+    {
+      "name": "missing_fieldamp",
+      "field_amplificator": 1,
+      "id": 3473.0,
+      "file": "isthere_missing_fieldamp.txt"
+    },
+    {
+      "name": "sc63_default",
+      "field_amplificator": 0,
+      "id": 213.5312257256292,
+      "file": "isthere_sc63_default.txt"
+    },
+    {
+      "name": "fenia",
+      "field_amplificator": 0,
+      "id": 15995.519841678279,
+      "file": "isthere_fenia.txt"
+    }
+  ]
+}

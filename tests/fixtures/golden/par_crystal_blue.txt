@@ -1,0 +1,1 @@
+GOES STARMAP ANALYSIS&&&&&&&&&&&&&&&&&&&&&SUBJECT: PLANET;     NAME: CRYSTAL BLUE   X=3690704            Y=4370114            Z=-1304184           

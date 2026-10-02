@@ -1,0 +1,1 @@
+GOES STARMAP ANALYSIS&&&&&&&&&&&&&&&&&&&&&SUBJECT: STAR;       NAME: LAVA LAMP      X=3690704            Y=4370114            Z=-1304184           

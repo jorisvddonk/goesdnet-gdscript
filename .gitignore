@@ -1,0 +1,10 @@
+# Godot
+.godot/
+*.import
+
+# Reference build artifacts
+tools/reference/bin/
+
+# Python
+__pycache__/
+*.pyc

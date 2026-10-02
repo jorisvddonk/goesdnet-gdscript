@@ -1,0 +1,9 @@
+config_version=5
+
+[application]
+config/name="goesnet-gdscript"
+config/description="Native GDScript port of the GOESNET modules (cat, where, par, dl, st)."
+config/features=PackedStringArray("4.4")
+
+[rendering]
+renderer/rendering_method="gl_compatibility"

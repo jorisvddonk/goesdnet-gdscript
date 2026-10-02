@@ -1,0 +1,7 @@
+class=0
+spin=0
+r=63
+g=58
+b=40
+nop=0
+nob=0

@@ -1,0 +1,277 @@
+[
+  {
+    "module": "cat",
+    "name": "cat_noargs",
+    "args": [],
+    "golden": "cat_noargs.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_fenia",
+    "args": [
+      "FENIA"
+    ],
+    "golden": "cat_fenia.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_lava_lamp",
+    "args": [
+      "LAVA_LAMP"
+    ],
+    "golden": "cat_lava_lamp.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_lava_lamp_multi_arg",
+    "args": [
+      "LAVA",
+      "LAMP"
+    ],
+    "golden": "cat_lava_lamp_multi_arg.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_lava_lamp_records_1_2",
+    "args": [
+      "LAVA_LAMP:1..2"
+    ],
+    "golden": "cat_lava_lamp_records_1_2.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_lava_lamp_record_2",
+    "args": [
+      "LAVA_LAMP:2"
+    ],
+    "golden": "cat_lava_lamp_record_2.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_ambiguous_nova",
+    "args": [
+      "NOVA"
+    ],
+    "golden": "cat_ambiguous_nova.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_novacula",
+    "args": [
+      "NOVACULA"
+    ],
+    "golden": "cat_novacula.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_crystal_blue",
+    "args": [
+      "CRYSTAL_BLUE"
+    ],
+    "golden": "cat_crystal_blue.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_not_found",
+    "args": [
+      "GHOST_OBJECT"
+    ],
+    "golden": "cat_not_found.txt"
+  },
+  {
+    "module": "cat",
+    "name": "cat_invalid_name",
+    "args": [
+      "THIS_NAME_IS_FAR_TOO_LONG"
+    ],
+    "golden": "cat_invalid_name.txt"
+  },
+  {
+    "module": "where",
+    "name": "where_noargs",
+    "args": [],
+    "golden": "where_noargs.txt"
+  },
+  {
+    "module": "where",
+    "name": "where_lava_lamp",
+    "args": [
+      "LAVA",
+      "LAMP"
+    ],
+    "golden": "where_lava_lamp.txt"
+  },
+  {
+    "module": "where",
+    "name": "where_lava_lamp_underscore",
+    "args": [
+      "LAVA_LAMP"
+    ],
+    "golden": "where_lava_lamp_underscore.txt"
+  },
+  {
+    "module": "where",
+    "name": "where_crystal_blue",
+    "args": [
+      "CRYSTAL",
+      "BLUE"
+    ],
+    "golden": "where_crystal_blue.txt"
+  },
+  {
+    "module": "where",
+    "name": "where_crystal_blue_underscore",
+    "args": [
+      "CRYSTAL_BLUE"
+    ],
+    "golden": "where_crystal_blue_underscore.txt"
+  },
+  {
+    "module": "where",
+    "name": "where_suricrasia",
+    "args": [
+      "SURICRASIA"
+    ],
+    "golden": "where_suricrasia.txt"
+  },
+  {
+    "module": "where",
+    "name": "where_novacula",
+    "args": [
+      "NOVACULA"
+    ],
+    "golden": "where_novacula.txt"
+  },
+  {
+    "module": "where",
+    "name": "where_not_found",
+    "args": [
+      "GHOST_OBJECT"
+    ],
+    "golden": "where_not_found.txt"
+  },
+  {
+    "module": "par",
+    "name": "par_noargs",
+    "args": [],
+    "golden": "par_noargs.txt"
+  },
+  {
+    "module": "par",
+    "name": "par_fenia",
+    "args": [
+      "FENIA"
+    ],
+    "golden": "par_fenia.txt"
+  },
+  {
+    "module": "par",
+    "name": "par_lava_lamp",
+    "args": [
+      "LAVA_LAMP"
+    ],
+    "golden": "par_lava_lamp.txt"
+  },
+  {
+    "module": "par",
+    "name": "par_crystal_blue",
+    "args": [
+      "CRYSTAL_BLUE"
+    ],
+    "golden": "par_crystal_blue.txt"
+  },
+  {
+    "module": "par",
+    "name": "par_suricrasia",
+    "args": [
+      "SURICRASIA"
+    ],
+    "golden": "par_suricrasia.txt"
+  },
+  {
+    "module": "par",
+    "name": "par_novacula",
+    "args": [
+      "NOVACULA"
+    ],
+    "golden": "par_novacula.txt"
+  },
+  {
+    "module": "dl",
+    "name": "dl_noargs",
+    "args": [],
+    "golden": "dl_noargs.txt"
+  },
+  {
+    "module": "dl",
+    "name": "dl_fenia",
+    "args": [
+      "FENIA"
+    ],
+    "golden": "dl_fenia.txt"
+  },
+  {
+    "module": "dl",
+    "name": "dl_lava_lamp",
+    "args": [
+      "LAVA_LAMP"
+    ],
+    "golden": "dl_lava_lamp.txt"
+  },
+  {
+    "module": "dl",
+    "name": "dl_crystal_blue",
+    "args": [
+      "CRYSTAL_BLUE"
+    ],
+    "golden": "dl_crystal_blue.txt"
+  },
+  {
+    "module": "dl",
+    "name": "dl_novacula",
+    "args": [
+      "NOVACULA"
+    ],
+    "golden": "dl_novacula.txt"
+  },
+  {
+    "module": "st",
+    "name": "st_noargs",
+    "args": [],
+    "golden": "st_noargs.txt"
+  },
+  {
+    "module": "st",
+    "name": "st_fenia",
+    "args": [
+      "FENIA"
+    ],
+    "golden": "st_fenia.txt"
+  },
+  {
+    "module": "st",
+    "name": "st_lava_lamp",
+    "args": [
+      "LAVA_LAMP"
+    ],
+    "golden": "st_lava_lamp.txt",
+    "comm": "st_lava_lamp.comm",
+    "comm_hex": "0000000068284c4100000080b0ab50c10000000078e633c1"
+  },
+  {
+    "module": "st",
+    "name": "st_crystal_blue",
+    "args": [
+      "CRYSTAL_BLUE"
+    ],
+    "golden": "st_crystal_blue.txt"
+  },
+  {
+    "module": "st",
+    "name": "st_novacula",
+    "args": [
+      "NOVACULA"
+    ],
+    "golden": "st_novacula.txt"
+  }
+]
