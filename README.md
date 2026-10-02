@@ -96,6 +96,10 @@ python3 tools/gen_probe.py                    # records prepare_nearstar/isthere
 `NOCTIS_SOURCE_DATA` (default `~/projects/Noctis-IV-Plus/data`) and writes the
 committed mini fixtures under `tests/fixtures/data/`.
 
+## License
+
+MIT — see [LICENSE](LICENSE).
+
 ### Note on the reference oracle
 
 The reference `cat.c` performs an 84-byte `read` into `mblock_subject`, relying
